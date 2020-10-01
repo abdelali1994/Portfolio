@@ -79,6 +79,15 @@ Created By: Yash Gaur
   width:100%;
   margin:0 auto;
 }
+#headerPopup5{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup5 iframe{
+  width:100%;
+  margin:0 auto;
+}
 
 /*************popup youtube***********/
 .content {
